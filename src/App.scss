@@ -1,0 +1,26 @@
+/*** $Variables **/
+$color-btn: skyblue !default;
+
+
+
+.App {
+    color: $color-btn;
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.moviecard {
+    color: $color-btn;
+    position: absolute;
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    top: 70%;
+    left: 25%;
+    transform: translate(-15%, -30%);
+}

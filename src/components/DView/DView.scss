@@ -1,0 +1,31 @@
+/*** $Variables **/
+$position: absolute !default;
+$font-stack:    Helvetica, sans-serif;
+
+
+
+
+.DView {
+position: $position;
+top: 50%;
+left: 50%;
+margin-top:20%;
+margin-bottom: 20%;
+transform: translate(-50%, -50%);
+}
+
+.next {
+  position: $position;
+  top: 50%;
+  left: 10%;
+  transform: translate(-10%, -50%);
+  font: 100% $font-stack;
+}
+
+.prev {
+  position: $position;
+  top: 50%;
+  left: 90%;
+  transform: translate(-90%, -50%);
+  font: 100% $font-stack;
+}
