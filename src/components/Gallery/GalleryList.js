@@ -3,7 +3,7 @@ import { Button } from 'semantic-ui-react'
 
 import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
 
-import styles from './GalleryList.scss'
+import styles from './GalleryList.css'
 
 class GalleryList extends Component {
   constructor(props) {

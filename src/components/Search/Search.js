@@ -12,7 +12,7 @@ import Detail from './Detail.js'
 // import TypeList from './TypeList.js'
 
 
-import styles from './Search.scss'
+import styles from './Search.css'
 
 const URL = 'https://api.themoviedb.org/3/search/movie?api_key=1e29783360b2b328137f396283e0de37&language=en-US&query=titanic&page=1&include_adult=false';
 //const baseURL = 'https://pokeapi.co/api/v2/type/';

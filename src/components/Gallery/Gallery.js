@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Button, Menu } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 import axios from 'axios'
-import styles from './Gallery.scss'
+import styles from './Gallery.css'
 import Genra from './Genra.js'
 // import Genra0 from './Genra.js'
 

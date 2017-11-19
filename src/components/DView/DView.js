@@ -3,7 +3,7 @@ import { Button } from 'semantic-ui-react'
 import { Card, Icon } from 'semantic-ui-react'
 import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
 
-import styles from './DView.scss'
+import styles from './DView.css'
 
 class DView extends Component {
   constructor(props) {

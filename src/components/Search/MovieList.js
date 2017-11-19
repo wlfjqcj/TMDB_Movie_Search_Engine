@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Card, Rating, Image } from 'semantic-ui-react'
 import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
 
-import styles from './MovieList.scss'
+import styles from './MovieList.css'
 
 class MovieList extends Component {
   constructor(props) {

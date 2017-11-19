@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Button, Card, Image } from 'semantic-ui-react'
 import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
 //import './App.css';
-import styles from './App.scss'
+import styles from './App.css'
 
 
 class App extends Component {

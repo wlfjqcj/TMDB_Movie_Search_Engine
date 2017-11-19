@@ -3,7 +3,7 @@ import { Button } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 import GalleryList from './GalleryList.js'
 
-import styles from './Genra.scss'
+import styles from './Genra.css'
 
 const Genra = (props) => {
   if (props.results === null){

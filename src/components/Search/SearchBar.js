@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Button } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 
-import styles from './SearchBar.scss'
+import styles from './SearchBar.css'
 
 class SearchBar extends Component {
 

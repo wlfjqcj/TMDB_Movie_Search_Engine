@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Button } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
-import styles from './Detail.scss'
+import styles from './Detail.css'
 import MovieList from './MovieList.js'
 
 const Detail = (props) => {
