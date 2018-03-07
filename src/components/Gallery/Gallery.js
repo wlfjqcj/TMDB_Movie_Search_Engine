@@ -18,6 +18,7 @@ class Gallery extends Component {
      }
      this.handleItemClick = this.handleItemClick.bind(this);
     this.handleItemWithoutClick = this.handleItemWithoutClick.bind(this);
+    this.handleItemWithoutClick();
    }
   //  handleItemWithoutClick() {
   //    //console.log(id)
